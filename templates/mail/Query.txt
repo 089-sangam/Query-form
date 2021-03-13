@@ -1,0 +1,5 @@
+New Query
+Name: {{ name }}
+Email: {{ email }}
+Subject: {{ subj }}
+Message: {{ message }}
